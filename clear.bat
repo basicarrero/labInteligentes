@@ -1,0 +1,2 @@
+del "*.gpx"
+del "*.pyc"
